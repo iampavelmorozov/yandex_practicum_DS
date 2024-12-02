@@ -1,6 +1,6 @@
-Павел Морозов / Pavel Morozov
-Дата рождения: 03.06.1982
-Образование: Яндекс Практикум (Специалист по Data Sciense) 
-Набор инструментов: Python (pandas, numpy, scipy, sympy, matplotlib, seaborn, scikit-learn), Jupyter Notebook
+Павел Морозов / Pavel Morozov.
+Дата рождения: 03.06.1982.
+Образование: Яндекс Практикум (Специалист по Data Sciense).
+Набор инструментов: Python (pandas, numpy, scipy, sympy, matplotlib, seaborn, scikit-learn), Jupyter Notebook.
 Освоено: базовый Python, исследовательский и статистический аналих данных, линейные модели в машинном обучении (обучение с учителем и без учителя), временные ряды, численные методы, основы глубокого обучения (tensorflow и keras).
 Выполнено: более 10 учебных проектов.
