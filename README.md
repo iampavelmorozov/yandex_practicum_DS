@@ -4,7 +4,7 @@
 
 Образование: Яндекс Практикум (Специалист по Data Sciense).
 
-Набор инструментов: Python (pandas, numpy, scipy, sympy, matplotlib, seaborn, scikit-learn), Jupyter Notebook.
+Набор инструментов: Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn, scikit-learn), Jupyter Notebook.
 
 Освоено: базовый Python, исследовательский и статистический анализ данных, линейные модели в машинном обучении (обучение с учителем и без учителя), временные ряды, численные методы, основы глубокого обучения (tensorflow и keras).
 
